@@ -1,6 +1,6 @@
 <div align="center">
 
-### Data Analytics Engineer · Business Intelligence
+### Data Analytics Engineer · Business Intelligence Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thu-maung-maung-695887131/)
 
@@ -10,8 +10,7 @@
 
 ## About Me
 
-I build scalable data pipelines and BI solutions that turn raw operational data into decisions. 
-Currently based in Bangkok, open to remote and hybrid opportunities in data engineering and analytics.
+I'm Si Thu — analytics engineer and BI developer based in Bangkok who gets genuinely excited about turning messy operational data into something people actually use to make decisions.
 
 - 🔭 &nbsp;Working on: Data Engineering projects
 - 🌱 &nbsp;Learning: Advanced Lakehouse architecture, dbt
@@ -26,7 +25,6 @@ Currently based in Bangkok, open to remote and hybrid opportunities in data engi
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
@@ -41,6 +39,8 @@ Currently based in Bangkok, open to remote and hybrid opportunities in data engi
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
