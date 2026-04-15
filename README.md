@@ -52,31 +52,6 @@ Currently based in Bangkok, open to remote and hybrid opportunities in data engi
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| [Data Engineering Boot Camp](https://www.dataexpert.io/certification/stmm-hub/yt-bootcamp-completion) | DataExpert.io | 2025 |
-| [Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/SiThuMaungMaung-0962/credentials/EF6524495EAFB112) | Microsoft | 2025 |
-| [Certified Data Engineer](https://www.datacamp.com/certificate/DE0010575847682) | DataCamp | 2024 |
-| [Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/sithumaungmaung-0962/credentials/9e146924cb772262?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft | 2024 |
-| [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/sithumaungmaung-0962/credentials/f4984478db68e5d8?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft | 2024 |
-| [Certified Entry-Level Python Programmer (PCEP)](https://www.credly.com/badges/61d71706-9ecd-4079-82c4-11e3e8f1b1b0/linked_in_profile) | Python Institute | 2024 |
-
----
-
-## Experience Highlights
-
-```
-Telenor Myanmar (2017–2022)       →  BI Officer → Senior Data Analytics Officer
-City Holdings Limited (2022–2024) →  Senior BI Developer
-Thalarwaddy Co., Ltd (2020–Now)   →  Technical & IT Manager (Part-time)
-```
-
-
-
----
-
 <div align="center">
 
 *"Turning operational data into decisions — one pipeline at a time."*
