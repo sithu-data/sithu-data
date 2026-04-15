@@ -1,13 +1,3 @@
-<div align="center">
-
-### Data Analytics Engineer · Business Intelligence Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thu-maung-maung-695887131/)
-
-</div>
-
----
-
 ## About Me
 
 I'm Si Thu — analytics engineer and BI developer based in Bangkok who gets genuinely excited about turning messy operational data into something people actually use to make decisions.
