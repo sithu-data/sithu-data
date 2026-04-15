@@ -3,8 +3,7 @@
 I'm Si Thu — analytics engineer and BI developer based in Bangkok who gets genuinely excited about turning messy operational data into something people actually use to make decisions.
 
 - 🔭 &nbsp;Working on: Data Engineering projects
-- 🌱 &nbsp;Learning: Advanced Lakehouse architecture, dbt
-
+  
 ---
 
 ## Tech Stack
