@@ -45,6 +45,4 @@ I'm Si Thu — analytics engineer and BI developer based in Bangkok who gets gen
 
 *"Turning operational data into decisions — one pipeline at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sithumgmg&color=blue&style=flat-square)
-
 </div>
